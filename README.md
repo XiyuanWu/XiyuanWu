@@ -14,11 +14,12 @@
 
 <div style="display: flex; align-items: center;">
 
-  <img src="./resume.png" alt="Resume" width="16" style="margin-right: 4px; vertical-align: middle;" />
-  <a href="" target="_blank" style="margin-right: 14px; vertical-align: middle;">Resume</a>
+  <img src="./resume.png" alt="Resume" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <a href="" target="_blank" style="margin-right: 16px; vertical-align: middle;">Resume</a>
 
-  <img src="./linkedln.png" alt="Linkedln" width="16" style="margin-right: 4px; vertical-align: middle;" />
-  <a href="www.linkedin.com/in/xiyuan-wu" target="_blank" style="margin-right: 14px; vertical-align: middle;">Linkedln</a>
+
+  <img src="./linkedln.png" alt="Linkedln" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <a href="www.linkedin.com/in/xiyuan-wu" target="_blank" style="margin-right: 16px; vertical-align: middle;">Linkedln</a>
 
 
 
@@ -29,17 +30,17 @@
 
 <div style="display: flex; align-items: center;">
 
-  <img src="./python.png" alt="Python" width="16" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 14px; vertical-align: middle;">Python</span>
+  <img src="./python.png" alt="Python" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <span style="margin-right: 16px; vertical-align: middle;">Python</span>
 
-  <img src="./c++.png" alt="C++" width="16" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 14px; vertical-align: middle;;">C++</span>
+  <img src="./c++.png" alt="C++" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <span style="margin-right: 16px; vertical-align: middle;;">C++</span>
 
-  <img src="./sql.png" alt="SQL" width="16" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 14px; vertical-align: middle;">SQL</span>
+  <img src="./sql.png" alt="SQL" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <span style="margin-right: 16px; vertical-align: middle;">SQL</span>
 
-  <img src="./r.png" alt="C++" width="16" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 14px; vertical-align: middle;">R</span>
+  <img src="./r.png" alt="C++" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <span style="margin-right: 16px; vertical-align: middle;">R</span>
 
 
 
