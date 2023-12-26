@@ -22,9 +22,12 @@
   <a href="www.linkedin.com/in/xiyuan-wu" target="_blank" style="margin-right: 16px; vertical-align: middle;">Linkedln</a>
 
 
-
 </div>
 
+<img src="./linkedln.png" width="20" style="height:auto;"> Linkedln
+
+
++
 
 ## Languages & Technologies
 
@@ -63,4 +66,8 @@
 
 📖 [Class Topic/Projects](https://github.com/XiyuanWu/Class_Topic-Projects)
 
+
+
+
+![Linkedln](./icons8-linkedin-16.png) Linkedln
 
