@@ -1,6 +1,6 @@
 # Nice to meet you! 👋
 
-![Undergrad UCR](https://img.shields.io/badge/Undergrad-UCR-blue)
+![Static Badge](https://img.shields.io/badge/Undergrad-UCR-blue?style=for-the-badge)
 
 
 ## About
@@ -12,43 +12,22 @@
 
 ## Connect
 
-<div style="display: flex; align-items: center;">
-
-  <img src="./resume.png" alt="Resume" width="18" style="margin-right: 4px; vertical-align: middle; display: inline-block;" />
-  <a href="" target="_blank" style="margin-right: 16px; vertical-align: middle;">Resume</a>
+![Static Badge](https://img.shields.io/badge/Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=lightgrey&link=www.linkedin.com%2Fin%2Fxiyuan-wu)
 
 
-  <img src="./icons8-linkedin-16.png" alt="Linkedln" width="18" style="margin-right: 4px; vertical-align: middle;" />
-  <a href="www.linkedin.com/in/xiyuan-wu" target="_blank" style="margin-right: 16px; vertical-align: middle;">Linkedln</a>
 
 
-</div>
-
-<img src="./linkedln.png" width="20" style="height:auto;"> Linkedln
-
-
-+
 
 ## Languages & Technologies
 
-<div style="display: flex; align-items: center;">
 
-  <img src="./python.png" alt="Python" width="18" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 16px; vertical-align: middle;">Python</span>
-
-  <img src="./c++.png" alt="C++" width="18" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 16px; vertical-align: middle;;">C++</span>
-
-  <img src="./sql.png" alt="SQL" width="18" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 16px; vertical-align: middle;">SQL</span>
-
-  <img src="./r.png" alt="C++" width="18" style="margin-right: 4px; vertical-align: middle;" />
-  <span style="margin-right: 16px; vertical-align: middle;">R</span>
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=c%2B%2B&labelColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sqlite&logoColor=%23003B57&labelColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/R-darkblue?style=for-the-badge&logo=R&logoColor=%23276DC3&labelColor=lightgrey)
 
 
 
-  <!-- Repeat for other technologies -->
-</div>
 
 
 
@@ -66,8 +45,4 @@
 
 📖 [Class Topic/Projects](https://github.com/XiyuanWu/Class_Topic-Projects)
 
-
-
-
-![Linkedln](./icons8-linkedin-16.png) Linkedln
 
