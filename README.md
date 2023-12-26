@@ -14,11 +14,11 @@
 
 <div style="display: flex; align-items: center;">
 
-  <img src="./resume.png" alt="Resume" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <img src="./resume.png" alt="Resume" width="18" style="margin-right: 4px; vertical-align: middle; display: inline-block;" />
   <a href="" target="_blank" style="margin-right: 16px; vertical-align: middle;">Resume</a>
 
 
-  <img src="./linkedln.png" alt="Linkedln" width="18" style="margin-right: 4px; vertical-align: middle;" />
+  <img src="./icons8-linkedin-16.png" alt="Linkedln" width="18" style="margin-right: 4px; vertical-align: middle;" />
   <a href="www.linkedin.com/in/xiyuan-wu" target="_blank" style="margin-right: 16px; vertical-align: middle;">Linkedln</a>
 
 
