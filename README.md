@@ -4,10 +4,10 @@
 
 
 ## About
-- I am currently pursuing a Bachelor in Computer Science at University of California, Riverside: UC Riverside.
+- I am currently pursuing a bachelor's in computer science at the University of California, Riverside(UCR).
 - My areas of interest include Artificial Intelligence(AI), Machine Learing(ML).
 - Currently, I have completed the Google Data Analysis Course and am pursuing the Google Advanced Data Analysis Course.
-- Actively seeking Summer 2024 Internship opportunities for mutiple position like Data Analyst.
+- Actively seeking Summer 2024 Internship opportunities for multiple positions like Data Analyst.
 
 
 ## Connect
@@ -37,14 +37,14 @@
 
 ## Current Projects
 
-🔍 [Google Data Analytics](https://github.com/XiyuanWu/Google_Data_Analytics)
+🔍 [**Google Data Analytics**](https://github.com/XiyuanWu/Google_Data_Analytics)
 
-🤖 [Google Advanced Data Analytics](https://github.com/XiyuanWu/Google_Advanced_Data_Analytics)
+🤖 [**Google Advanced Data Analytics**](https://github.com/XiyuanWu/Google_Advanced_Data_Analytics)
 
-📡 [Application of Python](https://github.com/XiyuanWu/Application_of_Python)
+📡 [**Application of Python**](https://github.com/XiyuanWu/Application_of_Python)
 
-🔢 [Calculator](https://github.com/XiyuanWu/Simple_projects)
+🔢 [**Calculator**](https://github.com/XiyuanWu/Simple_projects)
 
-📖 [Class Topic/Projects](https://github.com/XiyuanWu/Class_Topic-Projects)
+📖 [**Class Topic/Projects**](https://github.com/XiyuanWu/Class_Topic-Projects)
 
 
