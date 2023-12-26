@@ -12,10 +12,7 @@
 
 ## Connect
 
-![Static Badge](https://img.shields.io/badge/Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=lightgrey&link=www.linkedin.com%2Fin%2Fxiyuan-wu)
-
-
-<a href="https://www.linkedin.com">
+<a href="www.linkedin.com/in/xiyuan-wu">
   <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=lightgrey">
 </a>
 
