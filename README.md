@@ -24,7 +24,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=lightgrey)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=c%2B%2B&labelColor=lightgrey)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=lightgrey)
 ![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sqlite&logoColor=%23003B57&labelColor=lightgrey)
 ![Static Badge](https://img.shields.io/badge/R-darkblue?style=for-the-badge&logo=R&logoColor=%23276DC3&labelColor=lightgrey)
 
