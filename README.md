@@ -12,10 +12,9 @@
 
 ## Connect
 
-<a href="mailto:xwu136@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-yellow?style=for-the-badge&logo=gmail&labelColor=lightgrey">
-<a href="www.linkedin.com/in/xiyuan-wu" target="_blank">
-  <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=lightgrey" target="_blank"/>
+[![EMAIL](https://img.shields.io/badge/EMAIL-yellow?style=for-the-badge&logo=gmail&labelColor=lightgrey)](mailto:xwu136@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=lightgrey)](https://www.linkedin.com/in/xiyuan-wu)
+
 
 
 
