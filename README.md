@@ -14,6 +14,7 @@
 
 <a href="www.linkedin.com/in/xiyuan-wu" target="_blank">
   <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=lightgrey" target="_blank"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-yellow?style=for-the-badge&logo=gmail&labelColor=lightgrey&link=xwu136%40gmail.com">
 </a>
 
 
