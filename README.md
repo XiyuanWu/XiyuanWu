@@ -7,7 +7,7 @@
 - I am currently pursuing a bachelor's in computer science at the University of California, Riverside(UCR).
 - My areas of interest include Artificial Intelligence(AI), Machine Learing(ML).
 - Currently, I have completed the Google Data Analysis Course and am pursuing the Google Advanced Data Analysis Course.
-- Actively seeking Summer 2024 Internship opportunities for multiple positions like Data Analyst.
+- Actively seeking Summer 2024 Internship opportunities for Data Analyst/Scientist positions.
 
 
 ## Connect
