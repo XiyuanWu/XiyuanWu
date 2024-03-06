@@ -18,14 +18,18 @@
 
 ## Languages & Technologies
 
-
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=lightgrey)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=lightgrey)
 ![Static Badge](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=sqlite&logoColor=%23003B57&labelColor=lightgrey)
 ![Static Badge](https://img.shields.io/badge/R-darkblue?style=for-the-badge&logo=R&logoColor=%23276DC3&labelColor=lightgrey)
 ![Static Badge](https://img.shields.io/badge/Scikit-orange?style=for-the-badge&logo=scikitlearn&labelColor=lightgrey)
 
-## Current Projects
+
+## Experience
+
+📊 [**Data Science Intern**](https://github.com/XiyuanWu/Data_Science_Intern)
+
+## Feature Projects
 
 🔍 [**Google Data Analytics**](https://github.com/XiyuanWu/Google_Data_Analytics)
 
@@ -33,10 +37,12 @@
 
 📡 [**Application of Python**](https://github.com/XiyuanWu/Application_of_Python)
 
-🛡️ [**Insurance Analysis**](https://github.com/XiyuanWu/Insurance_Analysis)
+<!-- 🛡️ [**Insurance Analysis**](https://github.com/XiyuanWu/Insurance_Analysis)
 
-🔢 [**Calculator**](https://github.com/XiyuanWu/Simple_projects)
+🔢 [**Calculator**](https://github.com/XiyuanWu/Simple_projects) -->
 
-📖 [**Class Topic/Projects**](https://github.com/XiyuanWu/Class_Topic-Projects)
+## Class Topics
+
+📖 [**Class Projects**](https://github.com/XiyuanWu/Class_Topic-Projects)
 
 
