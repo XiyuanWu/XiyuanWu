@@ -27,7 +27,7 @@
 
 ## Experience
 
-📊 [**Data Science Intern**](https://github.com/XiyuanWu/Data_Science_Intern)
+📊 [**Data Glacier Intern**](https://github.com/XiyuanWu/Data_Science_Intern)
 
 ## Feature Projects
 
