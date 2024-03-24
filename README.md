@@ -37,6 +37,8 @@
 
 📡 [**Application of Python**](https://github.com/XiyuanWu/Application_of_Python)
 
+🎬 [**Movie Sentiment Analysis**](https://github.com/XiyuanWu/Movie_Sentiment_Analysis)
+
 <!-- 🛡️ [**Insurance Analysis**](https://github.com/XiyuanWu/Insurance_Analysis)
 
 🔢 [**Calculator**](https://github.com/XiyuanWu/Simple_projects) -->
