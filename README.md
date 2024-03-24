@@ -24,12 +24,13 @@
 ![Static Badge](https://img.shields.io/badge/R-darkblue?style=for-the-badge&logo=R&logoColor=%23276DC3&labelColor=lightgrey)
 ![Static Badge](https://img.shields.io/badge/Scikit-orange?style=for-the-badge&logo=scikitlearn&labelColor=lightgrey)
 
+## Feature Repository
 
-## Experience
+### Experience
 
 📊 [**Data Glacier Intern**](https://github.com/XiyuanWu/Data_Science_Intern)
 
-## Feature Projects
+### Projects
 
 🔍 [**Google Data Analytics**](https://github.com/XiyuanWu/Google_Data_Analytics)
 
@@ -43,7 +44,7 @@
 
 🔢 [**Calculator**](https://github.com/XiyuanWu/Simple_projects) -->
 
-## Class Topics
+### Class Topics
 
 📖 [**Class Projects**](https://github.com/XiyuanWu/Class_Topic-Projects)
 
