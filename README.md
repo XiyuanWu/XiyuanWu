@@ -14,7 +14,7 @@
 
 [![EMAIL](https://img.shields.io/badge/EMAIL-yellow?style=for-the-badge&logo=gmail&labelColor=lightgrey)](mailto:xwu136@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=lightgrey)](https://www.linkedin.com/in/xiyuan-wu)
-[![Static Badge](https://img.shields.io/badge/Kraggle-d?style=for-the-badge&logo=kaggle&labelColor=lightgrey&color=purple)](https://www.kaggle.com/xiyuanwu)
+[![Static Badge](https://img.shields.io/badge/Kraggle-d?style=for-the-badge&logo=kaggle&labelColor=lightgrey&color=skyblue)](https://www.kaggle.com/xiyuanwu)
 
 
 ## Languages & Technologies
