@@ -39,11 +39,9 @@
 
 📡 [**Application of Python**](https://github.com/XiyuanWu/Application_of_Python)
 
-🎬 [**Movie Sentiment Analysis**](https://github.com/XiyuanWu/Movie_Sentiment_Analysis)
+📓 [**Data Sciences Project**](https://github.com/XiyuanWu/Data_Science_Projects)
 
-<!-- 🛡️ [**Insurance Analysis**](https://github.com/XiyuanWu/Insurance_Analysis)
-
-🔢 [**Calculator**](https://github.com/XiyuanWu/Simple_projects) -->
+<!--🔢 [**Calculator**](https://github.com/XiyuanWu/Simple_projects) -->
 
 ### Class Topics
 
