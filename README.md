@@ -1,7 +1,7 @@
 
-# Bridging Code and Innovation
+![header](./img/Header.gif)
 
-**I'm Xiyuan Wu, Nice to meet you!**
+# Hi, I'm Xiyuan Wu
 
 ![Static Badge](https://img.shields.io/badge/Undergrad-UCR-blue?style=for-the-badge)
 
