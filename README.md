@@ -1,7 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=35&pause=1000&color=00FFB3&random=false&width=550&height=60&lines=Bridging+Code+and+Innovation;Hi%2C+I'm+Xiyuan+Wu)](https://git.io/typing-svg)
 
-![header](./img/Header.gif)
-
-# Hi, I'm Xiyuan Wu
 
 ![Static Badge](https://img.shields.io/badge/Undergrad-UCR-blue?style=for-the-badge)
 
