@@ -10,7 +10,7 @@
 * 🧠  I'm pursuing a bachelor's in computer science at the University of California, Riverside(UCR)
 * ⚡  Actively seeking Internship opportunities for Data Analyst/Scientist positions.
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,cmake,css,flask,gcp,git,github,githubactions,html,latex,md,nextjs,nodejs,tailwind,vscode,notion,npm,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cmake,css,sklearn,tensorflow,flask,gcp,git,github,githubactions,html,latex,md,nextjs,nodejs,tailwind,vscode,notion,latex,npm,react&theme=light)](https://skillicons.dev)
 
 
 ![3D](./profile-3d-contrib/profile-season-animate.svg)
