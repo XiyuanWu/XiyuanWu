@@ -10,7 +10,7 @@
 * 🧠  I'm pursuing a bachelor's in computer science at the University of California, Riverside(UCR)
 * ⚡  Actively seeking Full-Time opportunities.
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,react,js,jquery,cmake,css,sklearn,tensorflow,pytorch,flask,gcp,git,github,figma,githubactions,html,latex,sqlite,md,nextjs,nodejs,tailwind,vscode,notion,latex,npm,regex,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,spring,react,js,jquery,mongodb,cmake,css,sklearn,tensorflow,pytorch,flask,gcp,git,github,figma,githubactions,html,latex,sqlite,md,nextjs,nodejs,tailwind,vscode,notion,latex,npm,regex,windows&theme=light)](https://skillicons.dev)
 
 
 ![3D](./profile-3d-contrib/profile-season-animate.svg)
